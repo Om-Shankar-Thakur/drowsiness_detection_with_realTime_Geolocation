@@ -75,10 +75,10 @@ This software/ML model works as follows:
 You can help by contributing in the making of GUI interface for the Project, awaring me about any bug you may encounter, last but not the least you can help me in optimising the program to boost its run speed.
 
 # Developer Credit
-Keshav Agarwal aka MasterK is the sole owner of this repositiory, and this ML project is developed by him in 2019 and updated in 2023.
+Om Shankar Thakur and Keshav Agarwal are the owners of this repositiory, and this ML project was developed by them in 2019 and updated in 2023.
 
-<a href="https://www.linkedin.com/in/keshav-agarwal-0927"><img src="icons/linkedin.webp" align="left" height="60" width="60" alt="LinkedIn"></a>
-<a href="https://www.github.com/MasterK0927"><img src="icons/github.svg" align="left" height="65" width="60" alt="Github"></a>
+<a href="https://www.linkedin.com/in/om-shankar-86981b224"><img src="icons/linkedin.webp" align="left" height="60" width="60" alt="LinkedIn"></a>
+<a href="https://github.com/Om-Shankar-Thakur"><img src="icons/github.svg" align="left" height="65" width="60" alt="Github"></a>
 <br><br>
 
 <h2 align="center"> Appreciate my work by <img src="icons/github.gif" height=60 width=60 alt=star align=bottom> this repository </h2>
