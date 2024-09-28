@@ -74,9 +74,6 @@ This software/ML model works as follows:
 # Contributing
 You can help by contributing in the making of GUI interface for the Project, awaring me about any bug you may encounter, last but not the least you can help me in optimising the program to boost its run speed.
 
-# Developer Credit
-Om Shankar Thakur and Keshav Agarwal are the owners of this repositiory, and this ML project was developed by them in 2019 and updated in 2023.
-
 <a href="https://www.linkedin.com/in/om-shankar-86981b224"><img src="icons/linkedin.webp" align="left" height="60" width="60" alt="LinkedIn"></a>
 <a href="https://github.com/Om-Shankar-Thakur"><img src="icons/github.svg" align="left" height="65" width="60" alt="Github"></a>
 <br><br>
